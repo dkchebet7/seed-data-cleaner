@@ -49,4 +49,4 @@ Open `Seed_Data_Cleaner_Refactored.ipynb` in Jupyter or Google Colab to see the 
 
 ## 👤 Author
 
-Daisy Ch — Data Analyst & Operations Automation Specialist
+Daisy Chebet — Data Analyst & Operations Automation Specialist
