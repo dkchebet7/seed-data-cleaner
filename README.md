@@ -45,7 +45,20 @@ Open `Seed_Data_Cleaner_Refactored.ipynb` in Jupyter or Google Colab to see the 
 - `Cleaned_Data.csv` – Final cleaned and organized data  
 - `Removed_Explicit.csv` – Rows with explicit content  
 - `Removed_Unreadable.csv` – Rows with invalid WPIDs  
-- `Removed_Duplicates.csv` – Duplicate entries (first kept)  
+- `Removed_Duplicates.csv` – Duplicate entries (first kept)
+
+## 🚀 Why This Matters
+
+Previously, data cleaning was done manually, which was time-consuming and error-prone. This automation:
+
+- **Saves hours of manual work** for the team  
+- **Improves annotation productivity** by grouping similar products  
+- **Ensures clean, quality data** for clients to build reliable models  
+- **Provides audit trails** by clearly showing which entries were excluded and why  
+
+This script turns a repetitive, manual task into a one-click process that’s faster, more reliable, and scalable.
+
+
 
 ## 👤 Author
 
